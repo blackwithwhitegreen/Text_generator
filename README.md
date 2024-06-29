@@ -1,6 +1,7 @@
 # Text_generator
 Generating the next word with the help of  LSTM
-* Model training for big-data
+* Model training for Sequential data
+* Using of Embedding and Tokenization
   
 
 
